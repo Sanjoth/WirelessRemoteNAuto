@@ -1,4 +1,4 @@
-# ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) Ambient Weather Monitor
+# ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) Ambient Weather Monitor
 ### Department	of	Computer	Science	and	Engineering, Sharda University
 ### Tinkering Lab – 2nd	Year
 #### Mentor:	Prof.	Ishan	Ranjan (Head of Department, CSE)
@@ -19,17 +19,17 @@ There is an option of choosing automatic control or remote control of the device
 
 ## REQUIREMENTS
 ### Hardware Prerequisites
-• Arduino Uno R3 Board (1)
-• Temperature Sensor LM-35 (1)
-• Bluetooth HC05 Module (1)
-• SMPS Adapter 1A (1)
-• LED (1)
-• Philips Hair Dryer (1)
-• Connecting Wires (12)
+    • Arduino Uno R3 Board (1)
+    • Temperature Sensor LM-35 (1)
+    • Bluetooth HC05 Module (1)
+    • SMPS Adapter 1A (1)
+    • LED (1)
+    • Philips Hair Dryer (1)
+    • Connecting Wires (12)
 
 ### Software Prerequisites
-• Bluetooth Terminal or Android App using Bluetooth as Source
-• Bluetooth Connectivity in Arduino & Device
+    • Bluetooth Terminal or Android App using Bluetooth as Source
+    • Bluetooth Connectivity in Arduino & Device
     
 ## WORKING
     • The HC05 Bluetooth module and the LM35 sensor will be connected to the input of the Arduino Uno Board and any electronic component to its output.
